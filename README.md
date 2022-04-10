@@ -23,7 +23,6 @@
   <img align="center" alt="Deniel-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="Deniel-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Deniel-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
-  <img align="right" alt="Deniel-yoda" height="30" width="40" src="https://cdn.dircordapp.com/attachments/795358919417397249/8254305895816688872/hi.gif">
 </div>
   
   ##

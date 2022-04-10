@@ -1,16 +1,41 @@
-### Hi there 👋
+### Welcome to my profile, all my project are public..
 
-<!--
-**DenielCordeiro/DenielCordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😁 Developer front-end
+- 🤔 I’m currently learning JavaScript, Angular and Ionic
+- 📫 E-mail: dcordeiro962@gmail.com or daniel-mtz11@outlook.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/DanielCordeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenielCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&layout-compact&langs_count=16&theme=dracula"/>
+</div>
+    
+<div style="display: inline-block"> <br>
+  <!--
+   <img align="center" alt="Deniel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  -->   
+  
+  <img align="center" alt="Deniel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
+  <img align="center" alt="Deniel-AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img align="center" alt="Deniel-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
+  <img align="center" alt="Deniel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>    
+  <img align="center" alt="Deniel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="center" alt="Deniel-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Deniel-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Deniel-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
+  <img align="right" alt="Deniel-yoda" height="30" width="40" src="https://cdn.dircordapp.com/attachments/795358919417397249/8254305895816688872/hi.gif">
+</div>
+  
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <!--
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"</a>
+  -->
+  <a href="mailto:dcordeiro962@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-&23333?style=for-the-badge&logo=gmail&logoColor=White" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-de-souza-cordeiro-020915198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href="" target="_blank"> 
+    </a>
+    
+</div>

@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/DenielCordeiro"> 
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DenielCordeiro&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&layout-compact&langs_count=16&theme=buefy"/>
+  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&layout-compact&langs_count=16&theme=buefy"/>
 </div>
     
 <div style="display: inline-block"> <br>

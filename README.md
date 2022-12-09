@@ -11,7 +11,6 @@
 </div>
   
  ### Technologies I've developed
-    
   
 <div style="display: inline-block"> <br>
    

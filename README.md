@@ -10,7 +10,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&layout-compact&langs_count=16&theme=buefy"/>
 </div>
   
- ### Technologies I've developed
+ ### Technologies I've used so far ...
   
 <div style="display: inline-block"> <br>
    

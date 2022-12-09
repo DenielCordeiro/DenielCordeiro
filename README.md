@@ -1,7 +1,7 @@
 ### Welcome my profile, all my project are public..
 
 - 😁 Developer 
-- 🤔 I’m currently learning JavaScript(TS), Angular
+- 🤔 I’m currently learning JavaScript(TS), Angular, Node JS, C#
 - 📫 E-mail: dcordeiro962@gmail.com or daniel-mtz11@outlook.com
 
 <div>

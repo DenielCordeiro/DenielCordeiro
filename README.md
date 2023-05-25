@@ -16,29 +16,34 @@
 <div style="display: inline-block"> <br>
    
   <a href="https://www.typescriptlang.org/" target="_blank">  
-     <img align="center" alt="Deniel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
+     <img align="center" alt="Deniel-TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
   </a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img align="center" alt="Deniel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="Deniel-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>  
   <a href="https://angular.io/" target="_blank">
-    <img align="center" alt="Deniel-AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+    <img align="center" alt="Deniel-AngularJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   </a>
   <a href="https://ionicframework.com/" target="_blank">
-    <img align="center" alt="Deniel-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
+    <img align="center" alt="Deniel-Ionic" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img align="center" alt="Deniel-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+    <img align="center" alt="Deniel-SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img align="center" alt="Deniel-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    <img align="center" alt="Deniel-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img align="center" alt="Deniel-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+    <img align="center" alt="Deniel-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img align="center" alt="Deniel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img align="center" alt="Deniel-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   </a>
+  <a href="https://angular.io/" target="_blank">
+    <img align="center" alt="Deniel-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  </a>
+            
+          
 </div>
   
   ##

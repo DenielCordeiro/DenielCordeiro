@@ -20,7 +20,10 @@
   </a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  </a>  
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img align="center" alt="NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  </a> 
   <a href="https://angular.io/" target="_blank">
     <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   </a>
@@ -39,9 +42,6 @@
   <a href="https://www.php.net/" target="_blank">
     <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   </a>
-  <a href="https://angular.io/" target="_blank">
-    <img align="center" alt="NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a> 
   
 </div>
   

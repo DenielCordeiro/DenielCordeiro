@@ -14,14 +14,16 @@
  ### Technologies I've used so far ...
   
 <div style="display: inline-block"> <br>
-  
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">  
      <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
   </a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
-  <a href="https://angular.io/" target="_blank">
+  <a href="https://nodejs.org/en" target="_blank">
     <img align="center" alt="NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a> 
   <a href="https://angular.io/" target="_blank">

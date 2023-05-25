@@ -5,11 +5,11 @@
 - 👤 ..Portfolio: https://daniel-cordeiro.netlify.app/  "still in development"
 - 📫 E-mail: dcordeiro962@gmail.com or daniel-mtz11@outlook.com
 
-<div>
+<!-- <div>
   <a href="https://github.com/DenielCordeiro"></a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DenielCordeiro&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&theme=buefy"/>
-</div>
+</div> -->
   
  ### Technologies I've used so far ...
   

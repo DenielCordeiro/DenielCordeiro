@@ -14,6 +14,11 @@
  ### Technologies I've used so far ...
   
 <div style="display: inline-block"> <br>
+  <!-- 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </a>
+  -->
   <a href="https://www.mysql.com/" target="_blank">
     <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </a>

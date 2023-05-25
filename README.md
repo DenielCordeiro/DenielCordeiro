@@ -44,6 +44,6 @@
   ##
 
 <div>
-  <a href="mailto:dcordeiro962@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-&23333?style=for-the-badge&logo=gmail&logoColor=White"             target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-de-souza-cordeiro-020915198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-           badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:dcordeiro962@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-&23333?style=for-the-badge&logo=gmail&logoColor=White"             target="_blank" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/daniel-de-souza-cordeiro-020915198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-           badge&logo=linkedin&logoColor=white" target="_blank" height="30" width="40"></a>
 </div>

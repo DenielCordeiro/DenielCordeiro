@@ -61,4 +61,7 @@
   <a href="https://www.linkedin.com/in/daniel-de-souza-cordeiro-020915198/" target="_blank">
     <img target="_blank" alt="Linkedin" height="40" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+<!--   <a href="" target="_blank">
+    <img target="_blank" alt="Twitter" height="40" width="130" src="https://img.shields.io/twitter/url?style=social">
+  </a> -->
 </div>

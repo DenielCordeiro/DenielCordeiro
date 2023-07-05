@@ -1,4 +1,4 @@
-### Welcome my profile, all my project are public..
+### Welcome my profile, all my project Front-end are public..
 
 - 😁 Developer 
 - 🤔 I’m currently learning JavaScript(TS), Angular, Node JS, MongoDB

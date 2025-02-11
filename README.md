@@ -4,19 +4,15 @@
 - 🤔 I’m currently learning JavaScript(TS), Angular, Node JS, MongoDB
 - 👤 ..Portfolio: https://daniel-cordeiro.netlify.app/  "still in development"
 - 📫 E-mail: dcordeiro962@gmail.com or daniel-mtz11@outlook.com
-
-<!-- <div>
-  <a href="https://github.com/DenielCordeiro"></a>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DenielCordeiro&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&theme=buefy"/>
-</div> -->
   
  ### Technologies I've used so far ...
   
-<div style="display: inline-block"> <br>
-  
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<div style="display: inline-block"> <br> 
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img align="center" alt="SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">  
      <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
@@ -30,15 +26,9 @@
   <a href="https://angular.io/" target="_blank">
     <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img align="center" alt="SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-  </a>  
 </div>
   
   ##

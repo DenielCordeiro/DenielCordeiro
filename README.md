@@ -14,13 +14,9 @@
  ### Technologies I've used so far ...
   
 <div style="display: inline-block"> <br>
-  <!-- 
+  
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  </a>
-  -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">  
      <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
@@ -34,9 +30,6 @@
   <a href="https://angular.io/" target="_blank">
     <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   </a>
-  <a href="https://ionicframework.com/" target="_blank">
-    <img align="center" alt="Ionic" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
-  </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img align="center" alt="SASS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
@@ -45,11 +38,7 @@
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  </a>
-  
+  </a>  
 </div>
   
   ##
@@ -61,7 +50,4 @@
   <a href="https://www.linkedin.com/in/daniel-de-souza-cordeiro-020915198/" target="_blank">
     <img target="_blank" alt="Linkedin" height="40" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-<!--   <a href="" target="_blank">
-    <img target="_blank" alt="Twitter" height="40" width="130" src="https://img.shields.io/twitter/url?style=social">
-  </a> -->
 </div>

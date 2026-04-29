@@ -1,9 +1,9 @@
 # Olá, eu sou o Daniel Cordeiro! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenielCordeiro&show_icons=true&theme=flat-square" alt="GitHub Stats" height="180em" />
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" height="180em" />
 </div>
+
 
 ### 🚀 Sobre mim
 

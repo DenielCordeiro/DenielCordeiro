@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Cordeiro! 👋
+# Olá, eu sou o Daniel! 👋
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenielCordeiro&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" height="180em" />
